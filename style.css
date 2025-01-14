@@ -39,7 +39,6 @@ a {
   display: flex;
   background-color: #1F2937;
   color: #E5E7EB;
-  justify-content: space-between;
   align-items: center;
   padding: 24px 200px 100px;
   gap: 80px;
@@ -101,4 +100,31 @@ button {
   text-align: center;
   width: 200px;
   gap: 14px;
+}
+
+.quote-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E5E7EB;
+  width: 100vw;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  padding-top: 30px;
+  width: 60%;
+}
+
+.author-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 60%;
+}
+
+.quote-author {
+  font-weight: 900;
+  font-size: 24px;
+  padding-bottom: 20px;
 }
