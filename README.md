@@ -1,1 +1,1 @@
-# landing-page
+This webpage is made from scratch using HTML and CSS/flexbox. It shows HTML formatting and nesting of all the necessary elements to make formatting with CSS easier. 
